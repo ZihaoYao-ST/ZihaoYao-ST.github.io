@@ -10,12 +10,12 @@ I am Zihao Yao, a Ph.D. student in Computer Science and Technology at **Tongji U
 
 My recent research focuses on multivariate time series analysis, spatio-temporal data mining, and foundation models for spatio-temporal data. I am particularly interested in developing generalizable and trustworthy learning methods for open, heterogeneous, and evolving environments. My primary research directions include:
 
-- **Spatio-Temporal Data Mining:** time series and trajectory analysis, generative learning for spatio-temporal data, LLM-driven spatio-temporal modeling, and spatio-temporal foundation models.
+- **Spatio-Temporal Data Mining:** time series and trajectory analysis, generative learning for spatio-temporal data, LLM-driven modeling, and spatio-temporal foundation models.
 - **Machine Learning:** generative modeling, transfer learning, and causal representation learning.
 
 ## News
 
-- **[May. 2026]** Our paper TimeMoDE about pattern generalization learning is accepted to ICML 2026.
+- **[May. 2026]** Our paper TimeMoDE about pattern generalization is accepted to ICML 2026.
 - **[May. 2026]** Our paper GLAD about graph data mining is accepted to ICML 2026.
 - **[Apr. 2026]** Our paper GRADE about graph data mining is accepted to IJCAI 2026.
 - **[Apr. 2026]** Our paper ScBDiff about trajectory data mining is accepted to TCSS.
