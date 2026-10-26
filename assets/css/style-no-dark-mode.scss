@@ -2,3 +2,27 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+// Keep the configured portrait as a professional rectangular headshot.
+.image.avatar {
+  border-radius: 6px;
+}
+
+.image.avatar img {
+  display: block;
+  width: 150px;
+  height: 195px;
+  margin: 0 auto 18px;
+  padding: 0;
+  border-radius: 6px;
+  object-fit: cover;
+  object-position: center;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+}
+
+@media print, screen and (max-width: 480px) {
+  .image.avatar img {
+    width: 126px;
+    height: 164px;
+  }
+}
