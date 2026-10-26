@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Zihao Yao, a Ph.D. student in Computer Science and Technology at **Tongji University**, expected to graduate in **March 2030**. I received my bachelor's degree in Mathematics and Applied Mathematics from **Tongji University** in 2020. My research has been published in top-tier international conferences and journals, including ICML, AAAI, and TBD. I am broadly interested in data mining in open environments and generalized AI for science.
+I am Zihao Yao, a Ph.D. student in Computer Science and Technology at **Tongji University**, expected to graduate in **March 2030**. I received my bachelor's degree in Mathematics and Applied Mathematics from **Tongji University** in 2024. My research has been published in top-tier international conferences and journals, including ICML, AAAI, and TBD. I am broadly interested in data mining in open environments and generalized AI for science.
 
 ## Research Interests
 
