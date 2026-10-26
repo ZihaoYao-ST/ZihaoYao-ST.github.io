@@ -20,6 +20,38 @@
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
 }
 
+// Keep affiliation and email details visually aligned without crowding the sidebar.
+.profile-contact-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 20px;
+  margin: 4px 0;
+}
+
+.profile-contact-logo,
+.profile-contact-icon {
+  flex: 0 0 18px;
+  width: 18px;
+}
+
+.profile-contact-logo {
+  height: 18px;
+  object-fit: contain;
+}
+
+.profile-contact-icon {
+  color: #245b88;
+  font-size: 14px;
+  text-align: center;
+}
+
+.profile-email a {
+  color: inherit;
+  overflow-wrap: anywhere;
+}
+
 @media print, screen and (max-width: 480px) {
   .image.avatar img {
     width: 126px;

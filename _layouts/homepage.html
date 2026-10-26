@@ -50,11 +50,20 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        <div class="profile-contact-item profile-affiliation">
+          <img class="profile-contact-logo" src="./assets/img/Tongji_logo.png" alt="" aria-hidden="true">
+          {% if site.affiliation_link %}
+          <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+          {% else %}
+          <autocolor>{{ site.affiliation }}</autocolor>
+          {% endif %}
+        </div>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <div class="profile-contact-item profile-email">
+          <i class="fa-solid fa-envelope profile-contact-icon" aria-hidden="true"></i>
+          <email><a href="mailto:{{ site.email }}">{{ site.email }}</a></email>
+        </div>
         {% endif %}
 
         <br>
