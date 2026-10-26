@@ -57,7 +57,7 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/38649/42611
     code: https://github.com/yzh8221/DiMTS
     bibtex: https://dblp.org/rec/conf/aaai/YaoZZ26.html?view=bibtex
-    notes: CCF-A
+    notes: CCF-A, Oral
     image: ./assets/img/DiMTS.png
 
   - title: "Bridging User Dynamic Preferences: A Unified Bridge-Based Diffusion Model for Next POI Recommendation"
