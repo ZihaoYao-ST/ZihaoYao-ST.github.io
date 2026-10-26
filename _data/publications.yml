@@ -1,14 +1,74 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Towards a Unified Generative Model for Scarce Time Series with Domain Experts"
+    authors: <strong>Zihao Yao</strong>, Qi Zheng, Jiankai Zuo, Yaying Zhang
+    conference_short: ICML
+    conference: Proceedings of the 43rd International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://raw.githubusercontent.com/mlresearch/v306/main/assets/yao26t/yao26t.pdf
+    code: https://github.com/yzh8221/TimeMoDE
+    bibtex: https://proceedings.mlr.press/v306/yao26t.html
+    notes: CCF-A
+    image: ./assets/img/TimeMoDE.png
+
+  - title: "GLAD: Bidirectional Structure-Attribute Alignment via Latent Graph Diffusion Models"
+    authors: Jiankai Zuo, Yu Zhang, Yang Zhang, <strong>Zihao Yao</strong>, Yaying Zhang
+    conference_short: ICML
+    conference: Proceedings of the 43rd International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26e/zuo26e.pdf
+    code: https://yzh8221.github.io/Zihao-Yao.github.io/
+    bibtex: https://proceedings.mlr.press/v306/zuo26e.html
+    notes: CCF-A
+    image: ./assets/img/GLAD.png
+
+  - title: "Geometry-Aware Riemannian Residual Displacement for Cross-Broad-Domain Graph Anomaly Detection"
+    authors: Senyong Wang, <strong>Zihao Yao</strong>, Chen Zhu, Yaying Zhang
+    conference_short: IJCAI
+    conference: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026.
+    pdf: https://ijcai.org/proceedings/2026/0342.pdf
+    code: https://yzh8221.github.io/Zihao-Yao.github.io/
+    bibtex: https://ijcai.org/proceedings/2026/342
+    notes: CCF-B
+    image: ./assets/img/GRADE.png
+
+  - title: "From User State to Destination: Schrödinger Bridge-Guided Diffusion Model for Personalized Next POI Recommendation"
+    authors: Jiankai Zuo, <strong>Zihao Yao</strong>, Ruijie Xu, Xiang Gao, Yaying Zhang
+    conference_short: TCSS
+    conference: IEEE Transactions on Computational Social Systems <strong>(TCSS)</strong>, 2026.
+    pdf: https://doi.org/10.1109/TCSS.2026.3675313
+    code: https://yzh8221.github.io/Zihao-Yao.github.io/
+    bibtex: https://dblp.org/rec/journals/tcss/ZuoYXGZ26.html?view=bibtex
+    notes: Q1
+    image: ./assets/img/ScBDiff.png
+
+  - title: "GPS-Mamba: Graph Permutation Scanning State Space Model for Multivariate Time Series Forecasting"
+    authors: <strong>Zihao Yao</strong>, Qi Zheng, Jiankai Zuo, Yaying Zhang
+    conference_short: ESWA
+    conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2026.
+    pdf: https://doi.org/10.1016/j.eswa.2026.131373
+    code: https://github.com/yzh8221/GPS-Mamba
+    bibtex: https://dblp.org/rec/journals/eswa/YaoZZZ26.html?view=bibtex
+    notes: Q1, Top
+    image: ./assets/img/GPSMamba.png
+
+  - title: "DiM-TS: Bridge the Gap Between Selective State Space Models and Time Series for Generative Modeling"
+    authors: <strong>Zihao Yao</strong>, Jiankai Zuo, Yaying Zhang
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/38649/42611
+    code: https://github.com/yzh8221/DiMTS
+    bibtex: https://dblp.org/rec/conf/aaai/YaoZZ26.html?view=bibtex
+    notes: CCF-A
+    image: ./assets/img/DiMTS.png
+
+  - title: "Bridging User Dynamic Preferences: A Unified Bridge-Based Diffusion Model for Next POI Recommendation"
+    authors: Jiankai Zuo, <strong>Zihao Yao</strong>, Yaying Zhang
+    conference_short: TBD
+    conference: IEEE Transactions on Big Data <strong>(TBD)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/11195170
+    code: https://github.com/JKZuo/UBDiff
+    bibtex: https://dblp.org/rec/journals/tbd/ZuoYZ26.html?view=bibtex
+    notes: Q1
+    image: ./assets/img/UBDiff.png
 
   - title: "Correlation-Aware Reordered Scanning Mamba for Multivariate Time Series Forecasting"
     authors: <strong>Zihao Yao</strong>, Qi Zheng, Yaying Zhang
@@ -20,12 +80,12 @@ main:
     notes: CCF-B
     image: ./assets/img/CRSMamba.png
 
-  - title: "St-rep: learning predictive representations efficiently for spatial-temporal forecasting"
+  - title: "ST-ReP: Learning Predictive Representations Efficiently for Spatial-Temporal Forecasting"
     authors: Qi Zheng, <strong>Zihao Yao</strong>, Yaying Zhang
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33465/35620
     code: https://github.com/zhuoshu/ST-ReP
-    bibtex: data:Application/x-bibtex;charset=utf-8,%40inproceedings%7B10.1609%2Faaai.v39i12.33465%2C%0Aauthor%20%3D%20%7BZheng%2C%20Qi%20and%20Yao%2C%20Zihao%20and%20Zhang%2C%20Yaying%7D%2C%0Atitle%20%3D%20%7BST-ReP%3A%20learning%20predictive%20representations%20efficiently%20for%20spatial-temporal%20forecasting%7D%2C%0Ayear%20%3D%20%7B2025%7D%2C%0Aisbn%20%3D%20%7B978-1-57735-897-8%7D%2C%0Apublisher%20%3D%20%7BAAAI%20Press%7D%2C%0Aurl%20%3D%20%7Bhttps%3A%2F%2Fdoi.org%2F10.1609%2Faaai.v39i12.33465%7D%2C%0Adoi%20%3D%20%7B10.1609%2Faaai.v39i12.33465%7D%2C%0Aabstract%20%3D%20%7BSpatial-temporal%20forecasting%20is%20crucial%20and%20widely%20applicable%20in%20various%20domains%20such%20as%20traffic%2C%20energy%2C%20and%20climate.%20Benefiting%20from%20the%20abundance%20of%20unlabeled%20spatial-temporal%20data%2C%20self-supervised%20methods%20are%20increasingly%20adapted%20to%20learn%20spatial-temporal%20representations.%20However%2C%20it%20encounters%20three%20key%20challenges%3A%201)%20the%20difficulty%20in%20selecting%20reliable%20negative%20pairs%20due%20to%20the%20homogeneity%20of%20variables%2C%20hindering%20contrastive%20learning%20methods%3B%202)%20overlooking%20spatial%20correlations%20across%20variables%20over%20time%3B%203)%20limitations%20of%20efficiency%20and%20scalability%20in%20existing%20self-supervised%20learning%20methods.%20To%20tackle%20these%2C%20we%20propose%20a%20lightweight%20representation-learning%20model%20ST-ReP%2C%20integrating%20current%20value%20reconstruction%20and%20future%20value%20prediction%20into%20the%20pre-training%20framework%20for%20spatial-temporal%20forecasting.%20And%20we%20design%20a%20new%20spatial-temporal%20encoder%20to%20model%20fine-grained%20relationships.%20Moreover%2C%20multi-time%20scale%20analysis%20is%20incorporated%20into%20the%20self-supervised%20loss%20to%20enhance%20predictive%20capability.%20Experimental%20results%20across%20diverse%20domains%20demonstrate%20that%20the%20proposed%20model%20surpasses%20pre-training-based%20baselines%2C%20showcasing%20its%20ability%20to%20learn%20compact%20and%20semantically%20enriched%20representations%20while%20exhibiting%20superior%20scalability.%20Code%20%E2%80%94%20https%3A%2F%2Fgithub.com%2Fzhuoshu%2FST-ReP%2C%20Extended%20version%20%E2%80%94%20https%3A%2F%2Farxiv.org%2Fabs%2F2412.14537%7D%2C%0Abooktitle%20%3D%20%7BProceedings%20of%20the%20Thirty-Ninth%20AAAI%20Conference%20on%20Artificial%20Intelligence%20and%20Thirty-Seventh%20Conference%20on%20Innovative%20Applications%20of%20Artificial%20Intelligence%20and%20Fifteenth%20Symposium%20on%20Educational%20Advances%20in%20Artificial%20Intelligence%7D%2C%0Aarticleno%20%3D%20%7B1492%7D%2C%0Anumpages%20%3D%20%7B9%7D%2C%0Aseries%20%3D%20%7BAAAI'25%2FIAAI'25%2FEAAI'25%7D%0A%7D
+    bibtex: https://dblp.org/rec/conf/aaai/ZhengYZ25.html?view=bibtex
     notes: CCF-A
     image: ./assets/img/STRep.png
