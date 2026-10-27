@@ -7,15 +7,17 @@ email: yaozihao@tongji.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://ZihaoYao-ST.github.io/
+url: https://zihaoyao-st.github.io
+baseurl: ""
+keywords: "Zihao Yao, 姚子浩, Tongji University, multivariate time series, spatio-temporal data mining, spatio-temporal foundation models, machine learning, AI for science"
+description: "Academic homepage of Zihao Yao, a Ph.D. student at Tongji University researching multivariate time series, spatio-temporal data mining, foundation models, and AI for science."
+canonical: https://zihaoyao-st.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=78bawskAAAAJ&hl=zh-CN
 github_link: https://github.com/ZihaoYao-ST
-cv_link: https://ZihaoYao-ST.github.io/
+cv_link: https://zihaoyao-st.github.io/
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 

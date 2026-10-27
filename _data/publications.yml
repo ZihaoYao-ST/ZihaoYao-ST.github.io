@@ -5,7 +5,7 @@ main:
     conference_short: ICML
     conference: Proceedings of the 43rd International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     pdf: https://raw.githubusercontent.com/mlresearch/v306/main/assets/yao26t/yao26t.pdf
-    code: https://github.com/yzh8221/TimeMoDE
+    code: https://github.com/ZihaoYao-ST/TimeMoDE
     bibtex: https://proceedings.mlr.press/v306/yao26t.html
     notes: CCF-A
     image: ./assets/img/TimeMoDE.png
@@ -45,7 +45,7 @@ main:
     conference_short: ESWA
     conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2026.
     pdf: https://doi.org/10.1016/j.eswa.2026.131373
-    code: https://github.com/yzh8221/GPS-Mamba
+    code: https://github.com/ZihaoYao-ST/GPS-Mamba
     bibtex: https://dblp.org/rec/journals/eswa/YaoZZZ26.html?view=bibtex
     notes: Q1, Top
     image: ./assets/img/GPSMamba.png
@@ -55,7 +55,7 @@ main:
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/38649/42611
-    code: https://github.com/yzh8221/DiMTS
+    code: https://github.com/ZihaoYao-ST/DiMTS
     bibtex: https://dblp.org/rec/conf/aaai/YaoZZ26.html?view=bibtex
     notes: CCF-A, Oral
     image: ./assets/img/DiMTS.png
